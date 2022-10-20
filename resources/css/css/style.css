@@ -1,5 +1,5 @@
 body {
-    background-color: #00000;
+    background-color: #000000;
     text-align: center;
     font-family: verdana, Geneva, Tahoma;
 }
@@ -9,9 +9,19 @@ body {
 .header--main {
     font-weight: normal;
     font-size: 50px;
-    color: #fff;
+    color: #ffffff;
+}
+.header--secondary {
+    font-weight: 300;
+    font-size: 42px;
+    color: #ffffcdff;
+
 }
 
+.header--sub-header {
+font-size: 21px;
+color: grey;
+}
 /* LINKS */
 .link--cta {
     font-size: 16px;
